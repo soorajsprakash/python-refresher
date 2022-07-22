@@ -2,7 +2,7 @@
 # --------------------- BLACKJACK PROJECT ----------------------
 # --------------------------------------------------------------
 
-from _11_blackjack_art import logo
+from blackjack_art import logo
 import random
 
 

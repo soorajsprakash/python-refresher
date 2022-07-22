@@ -3,7 +3,7 @@
 # --------------------------------------------------------------
 
 import os
-from _10_CalculatorArt import logo
+from calculator_art import logo
 
 # to clear interpreter
 def clear():

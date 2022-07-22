@@ -3,7 +3,7 @@
 # --------------------------- (Scope)---------------------------
 # --------------------------------------------------------------
 
-from _12_guessNum_art import logo
+from numGuess_art import logo
 import random
 
 print(logo)

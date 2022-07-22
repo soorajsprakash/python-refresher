@@ -3,7 +3,7 @@
 # -------- (Dictionaries, Nesting & the Secret Auction) --------
 # --------------------------------------------------------------
 
-from _09_secretAuctionArt import logo
+from secretAuction_art import logo
 import os
 
 # to clear interpreter

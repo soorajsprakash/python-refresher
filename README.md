@@ -1,21 +1,21 @@
 # Python-Refresher
 
-![LOGO](images/logo.png)
+![LOGO](logo.png)
 
-![hamgman_image](images/07_image_hangman.png)
-
-** **
-
-![cipher_image](images/08_image_cipher.png)
+![hamgman_image](D07_hangman/image_hangman.png)
 
 ** **
 
-![auction_image](images/09_image_auction.png)
+![cipher_image](D08_caesarCipher/image_caesarCipher.png)
 
 ** **
 
-![calculator_image](images/10_image_calculator.png)
+![auction_image](D09_secretAuction/image_secretAuction.png)
 
 ** **
 
-![blackjack_image](images/11_image_blackjack.png)
+![calculator_image](D10_calculator/image_calculator.png)
+
+** **
+
+![blackjac1k_image](D11_blackjack/image_blackjack.png)
